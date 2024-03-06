@@ -1,5 +1,11 @@
 # Bike Sales Analysis
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tool](#tool)
+
 ### Project Overview
 
 The bike sales analysis project will focus on three key aspects: average income per purchase, customer age bracket, and customer commute. Analyzing average income per purchase will provide insights into customer spending patterns, enabling better understanding of affordability and purchasing power. Understanding customer age bracket will help identify the most interested age groups in purchasing bikes, enabling better marketing strategies and product offerings. Understanding commute patterns will identify potential product improvements or additional offerings.
@@ -49,6 +55,16 @@ Row- Customer Age Brackets
 Columns-Purchased Bike
 values-Count of Purchased Bike
 ````
+
+### Results/Findings
+
+The Analysis results are summarized as follows:
+1.
+2.
+3.
+
+### Recommendations
+Based on the analysis, we recommend the following actions
 
 
 
