@@ -11,7 +11,7 @@ Bike sales Data: The primary dataset used for this analysis is the "Bike Sales.c
 ### Tool
 
 - Excel - Data cleaning, Pivot Table and Dashboard.
-    -[Download here](https://www.microsoft.com/en-us/microsoft-365/excel)
+ -[Download here](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 - ### Data cleaning
 in the intial data preparation phase, I performed the following task:
@@ -20,3 +20,38 @@ in the intial data preparation phase, I performed the following task:
 3. Formulas and Functions
 
 ### Exploratory Data Analysis
+
+
+
+
+
+
+### Data Analysis
+If Functions
+```` 
+IF FUNCTION for Age Brackets 
+=IF(L982>54,"Old",IF(L982>=31,"Middle Age",IF(L982<31,"Adolescent","invalid")))
+`````
+Pivot Table
+```` 
+Pivot Table for Average income per person
+Row-Purchased Bike
+Columns-Gender
+values-Average Income
+
+Pivot Table for Customer Commute
+Row- Commute Distance
+Columns-Purchased Bike
+values-Count of Purchased Bike
+
+Pivot Table for Customer age Brackets
+Row- Customer Age Brackets
+Columns-Purchased Bike
+values-Count of Purchased Bike
+````
+
+
+
+
+
+
