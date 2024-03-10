@@ -8,8 +8,7 @@
 - [Data Cleaning](#data-cleaning)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
-- [ResultsFindings](#resultsfindings) 
-- [Recommendations](#recommendations)
+
 
 ### Project Overview
 ---
@@ -32,10 +31,9 @@ in the intial data preparation phase, I performed the following task:
 
 ### Exploratory Data Analysis
 
-
-
-
-
+- What is the average income per purchase for bike customers?
+- Which age brackets are the most interested in purchasing bikes?
+- What are the commute patterns of bike customers?
 
 ### Data Analysis
 If Functions
@@ -61,15 +59,6 @@ Columns-Purchased Bike
 values-Count of Purchased Bike
 ````
 
-### Results/Findings
-
-The Analysis results are summarized as follows:
-1.
-2.
-3.
-
-### Recommendations
-Based on the analysis, we recommend the following actions
 
 
 
